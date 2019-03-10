@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Working with ExoPlayer</string>
+    <string name="button_text">Press to Play Media</string>
+</resources>
